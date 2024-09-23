@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nivalas.github.io/sitemap.html.gz
+Sitemap: https://nivalas.github.io/app/sitemap.html.gz
+Sitemap: https://nivalas.github.io/assets/sitemap.html.gz
+Sitemap: https://nivalas.github.io/css/sitemap.html.gz
+Sitemap: https://nivalas.github.io/data/sitemap.html.gz
+Sitemap: https://nivalas.github.io/includes/sitemap.html.gz
+Sitemap: https://nivalas.github.io/item/sitemap.html.gz
+Sitemap: https://nivalas.github.io/src/sitemap.html.gz
